@@ -8,4 +8,5 @@ class RingBuffer:
     pass
 
   def get(self):
-    pass
+    # For each element in storage, add element to list if item != None. Return list
+    return [i for i in self.storage if i != None] 
