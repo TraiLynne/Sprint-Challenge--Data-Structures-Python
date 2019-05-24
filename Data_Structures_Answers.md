@@ -21,5 +21,11 @@ Add your answers to the questions below.
    1. O(n^2)
 
 7. What is the runtime complexity of your optimized code in `names.py`?
+   1. runtime: 0.007782936096191406 seconds 
+   2. Best: O(min(len(s), len(t)), worst: O(len(s) * len(t))
+   3. I googled this, no lie, 
+      1. https://eastonlee.com/blog/2017/03/06/common-python-operation-time-complexity/
+      2. https://stackoverflow.com/questions/30845469/time-complexity-of-python-set-intersection-for-n-sets
 
 8. What is the space complexity of your optimized code in `names.py`?
+   1. O(1)
