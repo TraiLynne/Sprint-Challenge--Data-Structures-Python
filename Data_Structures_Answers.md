@@ -14,8 +14,11 @@ Add your answers to the questions below.
    1. O(n)
 
 5. What is the runtime complexity of the provided code in `names.py`?
+   1. runtime: 12.62616515159607 seconds
+   2. Ok , it is a nested loop with an if statement looking a lot like selection sort so ... O(n^2)
 
 6. What is the space complexity of the provided code in `names.py`?
+   1. O(n^2)
 
 7. What is the runtime complexity of your optimized code in `names.py`?
 
